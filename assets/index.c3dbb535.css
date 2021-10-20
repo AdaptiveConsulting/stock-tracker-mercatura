@@ -1,0 +1,1 @@
+.container{width:800px}.stats{display:flex;justify-content:space-evenly;flex-wrap:wrap;font-family:"Robot",sans-serif;font-weight:600}.stats__title{flex-basis:100%;text-align:center;font-family:"Merriweather",serif}.stats__list{list-style:none}.stats__list li{border-bottom:1px solid #eaebeb;margin:5px 0}.stats__list li:last-child{border-bottom:none}
