@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('./sw.js', { scope: './' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('https://adaptiveconsulting.github.io/stock-tracker-mercatura/#/sw.js', { scope: 'https://adaptiveconsulting.github.io/stock-tracker-mercatura/#/' })})}
